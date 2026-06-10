@@ -1,0 +1,11 @@
+merchant_id,merchant_name,zone,orders_week1,orders_week2,orders_week3,avg_delivery_time,sla_breach_rate,courier_type
+M001,Spice Garden,Andheri East,45,42,44,28,0.05,BYOC
+M002,Mumbai Tiffins,Bandra West,8,6,5,42,0.31,Platform
+M003,The Burger Lab,Powai,23,21,22,31,0.08,BYOC
+M004,Curry House,Dharavi,4,3,2,58,0.67,Platform
+M005,Fresh Bowl,Juhu,67,71,69,24,0.03,BYOC
+M006,Noodle Bar,Andheri West,12,9,7,45,0.28,Platform
+M007,Pizza Corner,Borivali,34,33,35,29,0.06,BYOC
+M008,Dosa Point,Kurla,6,4,3,61,0.72,Platform
+M009,Sandwich Co,Malad,19,18,17,33,0.11,BYOC
+M010,Biryani House,Thane,88,91,87,22,0.02,Platform

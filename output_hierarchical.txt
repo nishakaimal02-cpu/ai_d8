@@ -1,0 +1,54 @@
+Subject: Supporting Curry House Through Delivery Challenges in Dharavi
+
+Hi Team Curry House,
+
+We’ve noticed your recent dip in orders from Dharavi, which seems closely tied to courier delays impacting your delivery times. We understand how crucial timely deliveries are to keep your loyal customers happy and your business thriving.
+
+To help, we’re ready to support you in strengthening your courier operations — from monitoring courier performance more closely to setting up backup delivery options and tracking deliveries in real time. If needed, we can also offer a 10% discount coupon (Rs 35 off) for 4 weeks to encourage more orders and help you bounce back.
+
+Let’s connect to discuss how we can implement these fixes quickly and get your order frequency back on track. When would be a good time for a quick call?
+
+Warm regards,  
+[Your Name]  
+Merchant Support Team
+
+
+Subject: Improving Your Kurla Orders with Enhanced Delivery Support
+
+Hi Team at Dosa Point,
+
+I’m reaching out because we’ve noticed your orders in Kurla dropping from 6 to 3 recently, with courier delays causing a high 72% SLA breach rate. We understand this is frustrating and affecting your sales.
+
+To help, we’re implementing operational fixes—optimizing delivery routes and reallocating resources—to bring those breaches below 35%. We’ll keep you updated transparently on progress so you’re never in the dark.
+
+Once we achieve this, we’d love to offer a Rs 25 coupon for your customers over 3 weeks to help bring orders back up, estimating about a 12% boost.
+
+Let’s partner closely to turn this around. Please reply here if you’d like to discuss next steps or have any questions.
+
+Warmly,  
+[Your Name]  
+[Platform Support Team]
+
+
+Subject: Supporting Noodle Bar Andheri West Through Delivery Challenges
+
+Hi Team Noodle Bar,
+
+I wanted to reach out personally about the recent drop in your Andheri West orders—from 12 down to 7—and the delivery delays caused by courier SLA breaches. We know how critical timely delivery is for your guests and your reputation.
+
+To help turn this around, we’re focusing on stronger courier agreements, tighter SLA monitoring, and clearer communication with customers about their orders. Additionally, if you’d like to boost order recovery, we can activate a Rs 15 coupon for your customers over the next two weeks as a little nudge to bring them back.
+
+Please let me know if you’d like us to implement the coupon or discuss any support we can provide to stabilize and grow your orders again. We’re here to help you through this.
+
+Warm regards,  
+[Your Name]  
+Marketplace Operations Team
+
+
+DRAFTING NOTES:
+
+- Curry House: Used the hook of their order decline in Dharavi due to courier delays, emphasizing urgent operational support plus coupon offer as secondary help. Chose the zone and SLA breach root cause as the personal hook because the order drop is steep and data shows courier reliability critical, making a strong empathy lead important.
+
+- Dosa Point: Hooked on the high SLA breach rate of 72% causing decline in Kurla orders and highlighted platform-led delivery fixes. Coupon offer presented only after operational improvements. This hook was chosen because the platform manages their couriers directly, allowing us to stress active interventions and restore trust.
+
+- Noodle Bar: Focused on the order drop trend in Andheri West paired with moderate but impactful SLA breaches. The hook combines their location, order quantities, and delivery problems. The coupon was presented as optional after noting operational improvements. This approach feels supportive and tailored to their specific supply chain challenges, avoiding a hard sell.
